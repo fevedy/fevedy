@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fevedy
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on nothing
+- 👋 Hi, I’m @fevedy.
+- 👀 I’m interested in movies.
+- 🌱 I’m currently learning C/C++.
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me fevedy1@gmail.com
 
 <!---
